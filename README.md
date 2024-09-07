@@ -1,0 +1,2 @@
+# -ElectronClassSchedule-
+基于ElectronClassSchedule修改的竖版电子课程表
